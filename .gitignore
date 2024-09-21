@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/MunawarJamil/nextjs-basics.git
+# git push -u origin main
